@@ -1,1 +1,1 @@
-# OhloneMath101CNotes
+# Ohlone Math 101C Multivariable Calculus Notes
